@@ -1,0 +1,9 @@
+defaultIndent: "  "
+
+replacements:
+  -
+    this: '、'
+    that: '，'
+  -
+    this: '。'
+    that: '．'
